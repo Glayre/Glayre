@@ -2,12 +2,14 @@
 
 <h1 align="center">Hi <img src= https://www.emojiall.com/images/60/microsoft-teams/1f44b.png /> , I'm Glayré Calles</h1>
 
-<h3 align="center">A passionate frontend developer from Venezuela </h3>
+<h2 align="center">A passionate frontend developer from Venezuela </h2>
 
-<h1 align="center"> <img src= https://www.emojiall.com/images/60/skype/1f469-200d-1f4bb.png />
+<h3 align="center"> <img src= https://www.emojiall.com/images/60/skype/1f469-200d-1f4bb.png > </h3>
 
 
-- 👨‍💻 All of my projects are available at [https://glayre.github.io/Curso21/HTML/PORTAFOLIO/Proyecto.html](https://glayre.github.io/Curso21/HTML/PORTAFOLIO/Proyecto.html)
+<a href="ENLACE"> Proyectos </a>
+
+- <a href="https://glayre.github.io/Curso21/HTML/PORTAFOLIO/Proyecto.html"> 👨‍💻 All of my projects are available at </a>
 - 📫 How to reach me **glayrecalles@gmail.com**
 
 <h3 align="center">Connect with me:</h3>
