@@ -6,9 +6,6 @@
 
 <h3 align="center"> <img src= https://www.emojiall.com/images/60/skype/1f469-200d-1f4bb.png > </h3>
 
-
-<a href="ENLACE"> Proyectos </a>
-
 - <a href="https://glayre.github.io/Curso21/HTML/PORTAFOLIO/Proyecto.html"> 👨‍💻 All of my projects are available at </a>
 - 📫 How to reach me **glayrecalles@gmail.com**
 
