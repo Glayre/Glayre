@@ -7,8 +7,7 @@
 <h1 align="center"> <img src= https://www.emojiall.com/images/60/skype/1f469-200d-1f4bb.png />
 
 
-- 👨‍💻 All of my projects are available at [file:///C:/Users/Admin/Documents/GitHub/Curso21/HTML/PORTAFOLIO/Proyecto.html](file:///C:/Users/Admin/Documents/GitHub/Curso21/HTML/PORTAFOLIO/Proyecto.html)
-
+- 👨‍💻 All of my projects are available at [https://glayre.github.io/Curso21/HTML/PORTAFOLIO/Proyecto.html](https://glayre.github.io/Curso21/HTML/PORTAFOLIO/Proyecto.html)
 - 📫 How to reach me **glayrecalles@gmail.com**
 
 <h3 align="center">Connect with me:</h3>
